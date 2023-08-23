@@ -1,10 +1,10 @@
-p {
+.odd {
     background-color: hsl(360, 100%, 80%);
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 .cooler {
-    font-size: 36px;
+    font-size: 24px;
 }
 
 #blue-txt {
