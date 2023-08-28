@@ -44,7 +44,7 @@ body {
   box-sizing: border-box;
   display: flex;
   flex-shrink: 0;
-  padding: 16px;
+  padding: ;
   justify-self: start;
 }
 
@@ -63,5 +63,6 @@ ul {
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
   width: 250px;
-  height: 250px;
+  height: auto;
+  margin: 12px;
 }
