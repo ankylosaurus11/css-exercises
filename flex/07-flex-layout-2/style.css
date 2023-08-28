@@ -13,7 +13,7 @@ body {
 
 .container2 {
   display: flex;
-  padding: 30px;
+  padding: 32px;
   flex-wrap: wrap;
   justify-content: space-around;
 }
@@ -43,6 +43,19 @@ body {
   background: royalblue;
   box-sizing: border-box;
   display: flex;
+  flex-shrink: 0;
+  padding: 16px;
+  justify-self: start;
+}
+
+a {
+  font-size: 24px;
+  color: #eee;
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
 }
 
 .card {
