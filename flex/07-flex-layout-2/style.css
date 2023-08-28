@@ -24,8 +24,9 @@ body {
   color: white;
   display: flex;
   align-items: center;
+  font-size: 32px;
   font-weight: 900;
-  padding: 12px;
+  padding: 16px;
 }
 
 .footer {
