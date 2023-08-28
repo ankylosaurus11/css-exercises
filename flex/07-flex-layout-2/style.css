@@ -15,7 +15,6 @@ body {
   display: flex;
   padding: 32px;
   flex-wrap: wrap;
-  justify-content: space-around;
 }
 
 .header {
@@ -42,7 +41,6 @@ body {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
-  display: flex;
   flex-shrink: 0;
   padding: 16px;
 }
@@ -68,6 +66,6 @@ li {
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
   width: 250px;
-  height: auto;
-  margin: 12px;
+  margin: 16px;
+  padding: 16px;
 }
